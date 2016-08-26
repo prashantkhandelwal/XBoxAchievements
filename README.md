@@ -11,4 +11,3 @@ All XBox 360, XBox One and XBox Arcade games achievements in JSON format.
 
 ### Work In Progress
 - XBox Arcade Achievements.
-- Optimize Achievement Viewer performance.
