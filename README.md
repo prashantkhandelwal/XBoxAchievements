@@ -5,7 +5,7 @@ All XBox 360, XBox One and XBox Arcade games achievements in JSON format.
 | Console         | Total Games |
 | --------------- | ----------- |
 | **XBox 360**    | 1345        |
-| **XBox One**    | 1247        |
+| **XBox One**    | 1266        |
 | **Xbox Arcade** | 0           |
 
 
